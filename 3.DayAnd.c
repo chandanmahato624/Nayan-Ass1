@@ -6,9 +6,10 @@ int main (){
    months = days / 30 ;
    days = days % 30 ;
    printf("Months = %d Days = %d", months, days) ;
+   
 
-    //    OUTPUT
-    //    Enter days
-    //    145
-    //    Months = 4 Days = 25
+//    OUTPUT
+//    Enter days
+//    145
+//    Months = 4 Days = 25
 }

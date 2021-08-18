@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "7.interchange.C": "cpp"
+        "7.interchange.C": "cpp",
+        "istream": "cpp"
     }
 }
